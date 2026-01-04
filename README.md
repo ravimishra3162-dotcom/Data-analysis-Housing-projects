@@ -77,13 +77,6 @@ Data-analysis-Housing-projects/
 │── .gitignore
 │── LICENSE
 
-## 🚀 Future Improvements
-
-* Add Python notebooks for advanced EDA
-* Build regression models to predict housing prices
-* Add visualizations using Matplotlib / Seaborn
-* Extend analysis with location-based data
-
 ## 👤 Author
 
 **Ravi Mishra**
