@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is an end-to-end exploratory data analysis (EDA) of a housing dataset to understand how property characteristics influence home prices. The analysis focuses on identifying key factors that affect selling prices and comparing market selling prices with appraised values.
+This project is an end to end exploratory data analysis (EDA) of a housing dataset to understand how property characteristics influence home prices. The analysis focuses on identifying key factors that affect selling prices and comparing market selling prices with appraised values.
 
 This project is designed as a **portfolio ready data analysis case study** using **Excel / Python concepts**, suitable for recruiters and hiring managers.
 
